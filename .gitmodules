@@ -4,3 +4,39 @@
 [submodule "nvim"]
 	path = nvim
 	url = mgt:TaiseiYokoshima/nvim
+[submodule "hypr"]
+	path = hypr
+	url = mgt:TaiseiYokoshima/hypr
+[submodule "wezterm"]
+	path = wezterm
+	url = mgt:TaiseiYokoshima/wezterm
+[submodule "alacritty"]
+	path = alacritty
+	url = mgt:TaiseiYokoshima/alacritty
+[submodule "zellij"]
+	path = zellij
+	url = mgt:TaiseiYokoshima/zellij
+[submodule "waybar"]
+	path = waybar
+	url = mgt:TaiseiYokoshima/waybar
+[submodule "wallpapers"]
+	path = wallpapers
+	url = mgt:TaiseiYokoshima/wallpapers
+[submodule "scripts"]
+	path = scripts
+	url = mgt:TaiseiYokoshima/scripts
+[submodule "rofi"]
+	path = rofi
+	url = mgt:TaiseiYokoshima/rofi
+[submodule "kitty"]
+	path = kitty
+	url = mgt:TaiseiYokoshima/kitty
+[submodule "dunst"]
+	path = dunst
+	url = mgt:TaiseiYokoshima/dunst
+[submodule "tmux"]
+	path = tmux
+	url = mgt:TaiseiYokoshima/tmux
+[submodule "sway"]
+	path = sway
+	url = mgt:TaiseiYokoshima/sway
