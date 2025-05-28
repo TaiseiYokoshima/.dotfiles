@@ -40,3 +40,6 @@
 [submodule "sway"]
 	path = sway
 	url = https://github.com/TaiseiYokoshima/sway
+[submodule "fcitx5"]
+	path = fcitx5
+	url = https://github.com/TaiseiYokoshima/fcitx5
