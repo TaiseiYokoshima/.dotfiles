@@ -3,7 +3,7 @@
 
   outputs = { self }: {
     dotfiles = {
-      alacritty = ./alacrity;
+      alacritty = ./alacritty;
       dunst = ./dunst;
       fcitx5 = ./fcitx5;
       fish = ./fish;
